@@ -1,0 +1,15 @@
+{
+	"hello": "Hello",
+	"search": "Search",
+	"welcome": "Welcome",
+	"trainees_platform": "Dear Visitor",
+	"login": "Login",
+	"login_now": "Login Now",
+	"logout": "Logout",
+	"next": "Next",
+	"back": "Back",
+	"no_data_found": "No data found",
+	"no_permission": "You don't have enough permission to view this page, please login first",
+	"restricted_area": "Restricted Area",
+	"mobile_alert": "Get our mobile app for a better browsing experience on your device! Download now. "
+}
